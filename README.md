@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Olá! Sou a Caroline Evelyn. Atualmente, sou aluna da **EEEP Paulo Petrola**, cursando o 3º ano do curso técnico em **Informática**. Estou em constante evolução, focando meus estudos no desenvolvimento de soluções robustas com **Java Spring Boot**, **Python** e gerenciamento de dados com **MySQL**, além de criar interfaces modernas com **HTML** e **CSS**. Além de fazer inglês no **Centro Cearense de Idiomas(CCI)**, com objetivo de expandir minha carreira profissional.
+Olá! Sou a Caroline Evelyn. Atualmente, sou aluna da **EEEP Paulo Petrola**, cursando o 3º ano do curso técnico em **Informática**. Estou em constante evolução, focando meus estudos no desenvolvimento de soluções robustas com **Java Spring Boot**, **Python** e gerenciamento de dados com **MySQL**, além de criar interfaces modernas com **HTML** e **CSS**. Também faço inglês no **Centro Cearense de Idiomas(CCI)**, com objetivo de expandir minha carreira profissional.
 
 ---
 
