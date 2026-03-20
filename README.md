@@ -1,11 +1,11 @@
-# 💫 Caroline Evelyn
-# 👋 Olá, eu sou a Caroline Evelyn!
+
+# 💫 Caroline Evelyn!
 
 **`Backend Developer In Training`** | **`Java Spring Boot`** | **`Python`** | **`MySQL`**
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About me
 Apaixonada por desvendar o que acontece "debaixo do capô" das aplicações! Sou aluna da **EEEP Paulo Petrola**, cursando o último ano de **Informática**. Meu foco principal é construir sistemas eficientes e seguros com **Java e Python**, conectando tudo com bancos de dados **MySQL**.
 
 Para garantir que meu código não tenha fronteiras, estudo inglês no **CCI**, focando em documentação técnica e comunicação global. 🌎
