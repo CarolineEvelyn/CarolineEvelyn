@@ -7,6 +7,7 @@
 ### 🚀 About me | Sobre Mim
 Estudante de Informática (3/3), focada em desenvolvimento Backend com Java Spring Boot, Python e MySQL. Experiência em interfaces modernas com HTML, CSS e JavaScript. Aluna de Inglês no CCI, buscando conexões e oportunidades globais na tecnologia. 
 IT Student (3/3) focused on Backend development using Java Spring Boot, Python, and MySQL. Experienced in building modern interfaces with HTML, CSS, and JavaScript. Currently studying English at CCI to expand my professional career and connect with the global tech scene.
+
 ---
 
 ### 🛠️ Technologies and Tools | Tecnologias e Ferramentas
