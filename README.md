@@ -1,4 +1,4 @@
-# 👋 Caroline Evelyn!
+# 💫 Caroline Evelyn
 
 **`Tech Student`** | **`Java Spring Boot`** | **`Python`** | **`MySQL`**
 
@@ -6,13 +6,12 @@
 
 ### 🚀 Sobre Mim
 Olá! Sou a Caroline Evelyn. Atualmente, sou aluna da **EEEP Paulo Petrola**, cursando o 3º ano do curso técnico em **Informática**. Estou em constante evolução, focando meus estudos no desenvolvimento de soluções robustas com **Java Spring Boot**, **Python** e gerenciamento de dados com **MySQL**, além de criar interfaces modernas com **HTML** e **CSS**.
-
 Também sou estudante de Inglês no **Centro de Idiomas (CCI)**, buscando expandir minhas fronteiras técnicas e profissionais. 🌎
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
